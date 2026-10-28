@@ -1,2 +1,2 @@
 FROM php:8.1-apache
-COPY . /var/www/html/
+COPY digital/ /var/www/html/
